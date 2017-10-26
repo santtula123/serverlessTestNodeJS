@@ -1,0 +1,27 @@
+{
+  "name": "serverlesstestnodejs",
+  "version": "1.0.0",
+  "description": "serverless test",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santtula123/serverlessTestNodeJS.git"
+  },
+  "keywords": [
+    "serverless",
+    "faas",
+    "AWS"
+  ],
+  "author": "santer moilanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santtula123/serverlessTestNodeJS/issues"
+  },
+  "homepage": "https://github.com/santtula123/serverlessTestNodeJS#readme",
+  "devDependencies": {
+    "serverless-offline": "^3.16.0"
+  }
+}
